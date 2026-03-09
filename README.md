@@ -24,4 +24,5 @@ public:
         final = sum - sum3;
         return final;
     }
+    
 };
