@@ -1,4 +1,4 @@
-# diagonal-matrix-sum-s-logic
+# ..diagonal-matrix-sum-s-logic
 This repository contains my solution to the Leet Code problem "Diagonal Sum of a Matrix," showcasing efficient matrix traversal and summation logic.
 below is the code I wrote for this problem:
 class Solution {
